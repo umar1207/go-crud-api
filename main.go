@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/umar1207/go-rest-api/services"
+	"github.com/umar1207/go-crud-api/services"
 )
 
 func main() {

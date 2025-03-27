@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/umar1207/go-rest-api/models"
+	"github.com/umar1207/go-crud-api/models"
 )
 
 func GetItems(w http.ResponseWriter, r *http.Request) {
